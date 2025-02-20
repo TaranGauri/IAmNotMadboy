@@ -3,16 +3,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">
+  <img src="https://i.gifer.com/3QAe.gif" width="500">
 </p>
 
 ---
 
 ### 🌌 About Me
 - 🛠 **Owner & Developer** at **Galactic Prisons** (Minecraft Bedrock Server)
-- 💻 **Proficient in:** JavaScript & Python 🚀
+- 💻 **Proficient in:** JavaScript 🚀
 - 🎨 **Knows:** HTML, CSS 🖌️
-- 📚 **Currently Learning:** Advanced Backend & Game Mechanics 🔥
+- 📚 **Currently Learning:** Python 🔥
 
 ---
 
