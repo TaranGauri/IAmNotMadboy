@@ -2,9 +2,6 @@
   🚀 Welcome to the Cosmos! I'm Taran Gauri 
 </h1>
 
-<p align="center">
-  <img src="https://i.gifer.com/3QAe.gif" width="500">
-</p>
 
 ---
 
