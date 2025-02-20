@@ -1,9 +1,9 @@
 <h1 align="center">
-  🚀 Welcome to the Cosmos! I'm [Your Name] 👨‍🚀
+  🚀 Welcome to the Cosmos! I'm Taran Gauri 
 </h1>
 
 <p align="center">
-  <img src="https://i.gifer.com/7ZGv.gif" width="500">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="500">
 </p>
 
 ---
