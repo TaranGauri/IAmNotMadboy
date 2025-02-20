@@ -28,3 +28,15 @@ const GalacticPrisons = {
   role: "Owner & Developer",
   status: "🚀 Expanding the Universe..."
 }
+```
+
+---
+
+🌌 Connect With Me
+
+🔗 Discord: YourDiscordTag
+🌐 Website: galacticprisons.xyz
+📧 Email: your.email@example.com
+
+
+---
