@@ -34,9 +34,9 @@ const GalacticPrisons = {
 
 🌌 Connect With Me
 
-🔗 Discord: YourDiscordTag
-🌐 Website: galacticprisons.xyz
-📧 Email: your.email@example.com
+🔗 Discord: iamnotmadboy\n
+🌐 Website: www.galacticprisons.xyz\n
+📧 Email: gauritaran@gmail.com
 
 
 ---
