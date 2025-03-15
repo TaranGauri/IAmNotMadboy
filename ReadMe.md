@@ -35,7 +35,7 @@ const GalacticPrisons = {
 🌌 Connect With Me
 
 🔗 Discord: iamnotmadboy
-🌐 Website: www.galacticprisons.xyz
+🌐 Website: galacticprisons.xyz
 📧 Email: gauritaran@gmail.com
 
 
