@@ -8,7 +8,7 @@
 ### 🌌 About Me
 - 🛠 **Owner & Developer** at **Galactic Prisons** (Minecraft Bedrock Server)
 - 💻 **Proficient in:** JavaScript 🚀
-- 🎨 **Knows:** HTML, CSS 🖌️
+- 🎨 **Knows:** HTML, CSS and JavaScript 🖌️
 - 📚 **Currently Learning:** Python 🔥
 
 ---
