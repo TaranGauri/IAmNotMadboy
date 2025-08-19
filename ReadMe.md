@@ -18,7 +18,7 @@
 
 ### 🪐 Tech Constellation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,html,css,sql,github,vscode,express,electron" />
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,mysql,github,vscode,express,electron" />
 </p>
 
 ---
