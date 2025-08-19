@@ -31,13 +31,6 @@
 
 ---
 
-### 🌠 Cosmic Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TaranGauri/TaranGauri/main/galaxy.gif" alt="Galaxy Animation" />
-</p>
-
----
-
 ### 💫 Let’s Connect
 <p align="center">
   <a href="https://discord.gg/QEhVEcYHHZ"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
