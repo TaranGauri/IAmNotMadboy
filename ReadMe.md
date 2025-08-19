@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=9F00FF&center=true&vCenter=true&width=700&lines=🚀+Commander+of+Galactic+Prisons;🌌+Crafting+custom+PvP+engines+for+MCBE;✨+Building+worlds,+servers,+and+galaxies;🐍+Mastering+Python+among+the+stars" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=2500&color=9F00FF&center=true&vCenter=true&width=700&lines=🚀+Commander+of+Galactic+Prisons;🌌+Crafting+custom+PvP+engines+for+MCBE;✨+Building+worlds,+servers,+and+galaxies;🐍+Mastering+Python+among+the+stars" alt="Typing SVG" />
 </h1>
 
 ---
