@@ -33,7 +33,7 @@
 
 ### 🌠 Cosmic Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TaranGauri/TaranGauri/main/galaxy-stars.svg" alt="Galaxy Animation" />
+  <img src="https://raw.githubusercontent.com/TaranGauri/TaranGauri/main/galaxy.gif" alt="Galaxy Animation" />
 </p>
 
 ---
